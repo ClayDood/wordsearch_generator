@@ -14,4 +14,4 @@ Save the script as word_search_generator.py in the specified directory.
 
 Place your words.txt file in the same directory.
 
-Run the script: python word_search_generator.py
+Run the script: Double-click script, or run "python word_search_generator.py".
