@@ -7,7 +7,7 @@ from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 
 # Hardcode the path to the script directory
-SCRIPT_DIR = r"C:\Users\Lenovo\Desktop\script"
+SCRIPT_DIR = r"C:\Users\Lenovo\repos\wordsearch_generator\script"
 
 # Adjustable font size
 FONT_SIZE = Pt(14)  # Change this value to adjust the font size
